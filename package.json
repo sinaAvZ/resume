@@ -1,6 +1,5 @@
 {
   "name": "varzesh-app",
-  "homepage": "git@github.com:sinaAvZ",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
