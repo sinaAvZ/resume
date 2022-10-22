@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sinaAvZ/FuckingPractical.git/static/css/main.380553b3.chunk.css",
+    "main.js": "/sinaAvZ/FuckingPractical.git/static/js/main.8d9e8e16.chunk.js",
+    "main.js.map": "/sinaAvZ/FuckingPractical.git/static/js/main.8d9e8e16.chunk.js.map",
+    "runtime-main.js": "/sinaAvZ/FuckingPractical.git/static/js/runtime-main.f333804b.js",
+    "runtime-main.js.map": "/sinaAvZ/FuckingPractical.git/static/js/runtime-main.f333804b.js.map",
+    "static/js/2.da21f9d6.chunk.js": "/sinaAvZ/FuckingPractical.git/static/js/2.da21f9d6.chunk.js",
+    "static/js/2.da21f9d6.chunk.js.map": "/sinaAvZ/FuckingPractical.git/static/js/2.da21f9d6.chunk.js.map",
+    "static/js/3.a2fe7566.chunk.js": "/sinaAvZ/FuckingPractical.git/static/js/3.a2fe7566.chunk.js",
+    "static/js/3.a2fe7566.chunk.js.map": "/sinaAvZ/FuckingPractical.git/static/js/3.a2fe7566.chunk.js.map",
+    "index.html": "/sinaAvZ/FuckingPractical.git/index.html",
+    "static/css/main.380553b3.chunk.css.map": "/sinaAvZ/FuckingPractical.git/static/css/main.380553b3.chunk.css.map",
+    "static/js/2.da21f9d6.chunk.js.LICENSE.txt": "/sinaAvZ/FuckingPractical.git/static/js/2.da21f9d6.chunk.js.LICENSE.txt",
+    "static/media/Frame 3.8a656cde.png": "/sinaAvZ/FuckingPractical.git/static/media/Frame 3.8a656cde.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f333804b.js",
+    "static/js/2.da21f9d6.chunk.js",
+    "static/css/main.380553b3.chunk.css",
+    "static/js/main.8d9e8e16.chunk.js"
+  ]
+}
